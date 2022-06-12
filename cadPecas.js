@@ -20,4 +20,3 @@ if(nomePeca.length < 3){
 }else{
     console.log("Nome correto.")
 }
-
